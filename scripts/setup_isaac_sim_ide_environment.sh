@@ -10,7 +10,7 @@ sudo apt install pip -y
 pip3 install commentjson
 
 script_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
-download_url="https://raw.githubusercontent.com/Auromix/auro_sim/main/scripts"
+download_url="https://raw.githubusercontent.com/ThMay19/auro_sim/main/scripts"
 script_name="setup_isaac_sim_ide_environment.py"
 directory_name="/tmp"
 
